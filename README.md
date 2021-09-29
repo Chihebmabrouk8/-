@@ -12,6 +12,7 @@
 </a>
 <a href="https://twitter.com/chihebmab8">
   <img align="left" alt="Mohamed's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freelancer.svg" />  
+  </a>
 
 <img align="right" width="100" src="https://visitor-badge.glitch.me/badge?page_id=0xctf"></img>
 
