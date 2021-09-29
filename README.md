@@ -22,7 +22,7 @@
 <br />
 <br />
 
-Hi, I'm Chiheb Mabrouk, a Web and open source Developer 🚀 from Tunisia, currently, i'm a Cybersecurity master degree student 🎒 and an IT Freelancer. Beside's programming, I enjoy playing video games and traveling.
+Hi, I'm Chiheb Mabrouk, a Web and open source Developer 🚀 from Tunisia 🇹🇳, currently, i'm a Cybersecurity master degree student 🎒 and an IT Freelancer. Beside's programming, I enjoy playing video games and traveling.
 
   
 - 💬 Ask me about anything. I am happy to help
